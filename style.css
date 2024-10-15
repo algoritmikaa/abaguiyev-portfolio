@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: rgb(126, 231, 27);
+    padding: 30px;
+}
+
+header a{
+    background-color: aqua;
+    color: brown;
+    border-radius: 15px;
+    padding: 10px;
+    font-size: 20px;
+    text-decoration: none;
+    border: 5px double rebeccapurple;
+}
+
+.link-nav{
+    margin: 20px;
+    font-size: 20px;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    color:royalblue;
+    text-align: center;
+    font-size: 70px;
+    text-shadow: 0px 20px 10px rgba(29, 115, 115, 0.38);
+}
+
+main p{
+    margin-left: 25px;
+    font-size: 20px;
+}
+
+li{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
